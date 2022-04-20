@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Eleave</string>
+    <string name="access_token">ACCESSTOKEN</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="biometric_login">BIOMETRICLOGIN</string>
+    <string name="login_data">LOGINDATA</string>
+    <string name="auth_fail">Your username and/or password do not match.</string>
+</resources>
